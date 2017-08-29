@@ -1,9 +1,9 @@
 # Cooperative formations on highway
 
-Ondrej Borovec
-Supervisor: Ing. Martin Schaefer
-Study Programme: Open Informatics, Bachelor
-Field of Study: Computer and Information Science
+* Ondrej Borovec
+* Supervisor: Ing. Martin Schaefer
+* Study Programme: Open Informatics, Bachelor
+* Field of Study: Computer and Information Science
 
 ## Abstract
 
